@@ -162,3 +162,8 @@ input{
 footer{
     padding:40px 40px 40px 40px;
 }
+
+hr{
+    position:absolute;
+    height: 90px;
+}
