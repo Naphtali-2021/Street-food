@@ -3,3 +3,51 @@
     padding:0;
     box-sizing: border-box;
     }
+
+header{
+    background-Color:rgb(207, 203, 203);
+}
+
+.nav{
+    list-style-type:none;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav a{
+    text-decoration: none;
+    color:black;
+}
+
+.nav a:hover{
+    padding:10px 10px 10px 10px;
+    background-color:#6CB840;
+    color:white;
+    border-radius: 5px;
+}
+
+#container-nav{
+    padding:60px 20px 20px 20px;
+}
+
+#btn{
+    padding:10px 10px 10px 10px;
+    border-radius:10px;
+    background-color:#6CB840;color:white;
+}
+
+#headpara{
+    font-family: 'Poppins', sans-serif;
+    padding:90px 90px 90px 90px;
+}
+
+
+.row{
+    display: flex; 
+}
+
+#colImg{
+    padding:90px 90px 90px 200px;
+}
