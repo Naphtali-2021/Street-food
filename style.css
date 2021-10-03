@@ -166,4 +166,5 @@ footer{
 hr{
     position:absolute;
     height: 90px;
+    border-style: dashed;
 }
