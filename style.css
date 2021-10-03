@@ -21,6 +21,13 @@ header{
     color:black;
 }
 
+#white:hover{
+    padding:10px 10px 10px 10px;
+    background-color:white;
+    color:#6CB840;
+    border-radius: 5px;
+}
+
 .nav a:hover{
     padding:10px 10px 10px 10px;
     background-color:#6CB840;
@@ -167,4 +174,13 @@ hr{
     position:absolute;
     height: 90px;
     border-style: dashed;
+}
+
+.eclipse{
+    height:800px;
+    width:66%;
+    background-color: #649549;
+    border-radius:500px;
+    margin-left:465px;
+    margin-top:-530px;
 }
