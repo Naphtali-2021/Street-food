@@ -107,7 +107,7 @@ header{
 
 #hotDeals{
     background-color:#cce9bb;
-    margin:0px 30px 30px 30px;
+    margin:0px 30px 0px 30px;
     padding:30px 30px 30px 30px;
 }
 
@@ -126,4 +126,24 @@ header{
 
 #hotdealsCol2 h3{
     font-size:30px;
+}
+
+input{
+    width:500px;
+    height:30px;
+    border-radius:10px;
+    padding-left:30px;
+}
+
+.btn{
+    padding:10px 10px 10px 10px;
+    border-radius:20px;
+    width:80px;
+}
+
+#contact{
+    background-color:#fcd886;
+    margin:0px 30px 30px 30px;
+    padding:30px 30px 90px 30px;
+    text-align: center;
 }
