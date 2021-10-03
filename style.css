@@ -147,3 +147,13 @@ input{
     padding:30px 30px 90px 30px;
     text-align: center;
 }
+
+#footer{
+    margin:0px 30px 30px 30px;
+    padding:30px 30px 90px 30px;
+    background-color:#edfff2;
+}
+
+footer{
+    padding:40px 40px 40px 40px;
+}
